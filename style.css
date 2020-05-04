@@ -1,31 +1,66 @@
-.header {
-  background-color: blue;
+#header {
+  background-color: #316DC3;
   display: flex;
-  flex-direction: row;
   width: 100%;
   height: 50px;
 }
 
-.header ul {
+
+#header ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
 }
 
-.header img {
+#header img {
   padding: 3px;
   margin: 10px;
   width: 1.7em;
 }
 
-.header p {
+#header p {
   color: white;
-  text-align: center;
-  align-content: center;
-  text-align: center;
 }
 
-.fab fa-facebook-f {
-  width: 300px;
-  color: blue;
+
+
+.fa-facebook-square {
+  margin: 4px;
+  padding: 1px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.fa-twitter-square {
+  margin: 4px;
+  padding: 1px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.fa-instagram-square {
+  margin: 4px;
+  padding: 1px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.fa-youtube{
+  margin: 4px;
+  padding: 1px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.fa-whatsapp-square{
+  margin: 4px;
+  padding: 1px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+
 }
